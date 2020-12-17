@@ -27,4 +27,5 @@ public class GuideActivity extends AppCompatActivity {
         // 设置vp_launch默认显示第一个页面
         vp_launch.setCurrentItem(0);
     }
+    
 }
